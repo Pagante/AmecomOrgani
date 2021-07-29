@@ -3066,15 +3066,15 @@ ol {
 		top: 0;
 		right: -12px;
 	}
-	.humberger__menu__cart .header__cart__price {
-		font-size: 14px;
-		color: #6f6f6f;
-		display: inline-block;
-	}
-	.humberger__menu__cart .header__cart__price span {
-		color: #252525;
-		font-weight: 700;
-	}
+	/*.humberger__menu__cart .header__cart__price {*/
+	/*	font-size: 14px;*/
+	/*	color: #6f6f6f;*/
+	/*	display: inline-block;*/
+	/*}*/
+	/*.humberger__menu__cart .header__cart__price span {*/
+	/*	color: #252525;*/
+	/*	font-weight: 700;*/
+	/*}*/
 	.humberger__menu__cart {
 		margin-bottom: 25px;
 	}
